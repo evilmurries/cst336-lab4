@@ -1,0 +1,1 @@
+This is a node.js app using express.js to serve static pages
