@@ -22,17 +22,24 @@ img, nav {
 nav {
     background-color: #FF9C85 !important;
     border: thin black solid;
-    width: 500 px;
+    width: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 nav a {
     font-style: "lato", "sans-serif";
     padding-top: 10px;
-    font-size: 1.3em;
+    font-size: 2em;
     border-bottom: none;
     color: black;
     margin: auto 0;
     text-decoration: none;
+}
+
+.divider {
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 nav a:hover {
