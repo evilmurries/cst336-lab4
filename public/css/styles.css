@@ -19,21 +19,20 @@ img, nav {
     border-radius: 10px;
 }
 
-nav { 
-    border: solid 5px black;
+nav {
+    background-color: #FF9C85 !important;
+    border: thin black solid;
+    width: 500 px;
 }
 
 nav a {
     font-style: "lato", "sans-serif";
     padding-top: 10px;
     font-size: 1.3em;
-    padding: 20px;
-    padding-bottom: 10px;
     border-bottom: none;
     color: black;
     margin: auto 0;
     text-decoration: none;
-    background-color: #FF9C85 !important;
 }
 
 nav a:hover {
