@@ -19,6 +19,10 @@ img, nav {
     border-radius: 10px;
 }
 
+nav { 
+    border: solid 5px black;
+}
+
 nav a {
     font-style: "lato", "sans-serif";
     padding-top: 10px;
