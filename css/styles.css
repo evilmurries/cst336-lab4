@@ -1,4 +1,40 @@
-body {
-    background-color: #82B8E7;
+body, header, footer {
+    background-color: #82B8E7 !important;
     text-align: center;
+    font-family: "lato", "sans-serif";
 }
+
+footer {
+    font-size: .8em;
+    color: #10355E;
+    padding-top: 20px;
+}
+
+footer:hover {
+    font-size: 1.0em;
+    transition-duration: 0s;
+}
+
+img {
+    border-radius: 5px;
+}
+
+nav a {
+    padding-top: 10px;
+    font-size: 1.3em;
+    padding: 20px;
+    padding-bottom: 4px;
+    color: black;
+    margin: auto 0;
+    text-decoration: none;
+    background-color: lightgrey !important;
+}
+
+nav a:hover {
+    border-bottom: 2px dotted black;
+}
+
+p {
+    font-size: 1.5em;
+    font-family: "lato", "sans-serif";
+  }
