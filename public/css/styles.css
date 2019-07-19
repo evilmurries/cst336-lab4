@@ -1,5 +1,5 @@
 body, header, footer {
-    background-color: #FCBFA9 !important;
+    background-color: #85E8FF !important;
     text-align: center;
     font-family: "lato", "sans-serif";
 }
@@ -15,19 +15,21 @@ footer:hover {
     transition-duration: 0s;
 }
 
-img {
-    border-radius: 5px;
+img, nav {
+    border-radius: 10px;
 }
 
 nav a {
+    font-style: "lato", "sans-serif";
     padding-top: 10px;
     font-size: 1.3em;
     padding: 20px;
-    padding-bottom: 4px;
+    padding-bottom: 10px;
+    border-bottom: none;
     color: black;
     margin: auto 0;
     text-decoration: none;
-    background-color: #A9E6FC !important;
+    background-color: #FF9C85 !important;
 }
 
 nav a:hover {
