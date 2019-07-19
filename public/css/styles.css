@@ -1,5 +1,5 @@
 body, header, footer {
-    background-color: #82B8E7 !important;
+    background-color: #FCBFA9 !important;
     text-align: center;
     font-family: "lato", "sans-serif";
 }
@@ -27,11 +27,11 @@ nav a {
     color: black;
     margin: auto 0;
     text-decoration: none;
-    background-color: lightgrey !important;
+    background-color: #A9E6FC !important;
 }
 
 nav a:hover {
-    border-bottom: 2px dotted black;
+    border-bottom: 2px solid black;
 }
 
 p {
