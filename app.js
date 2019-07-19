@@ -20,7 +20,7 @@ app.get("/earth", function(req, res) {
     res.render("earth.html");
 })
 app.get("/jupiter", function(req, res) {
-    res.render("venus.html");
+    res.render("jupiter.html");
 })
 
 //server listener
