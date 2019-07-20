@@ -20,12 +20,16 @@ img, nav {
     border-radius: 10px;
 }
 
+.container-text-center {
+    justify-content: center;
+}
+
 nav {
     background-color: #FF9C85 !important;
     border: thin black solid;
     width: 900px;
     padding-top: 10px;
-    justify-content: center !important;
+    justify-content: center;
     text-align: center;
     padding-bottom: 10px;
 }
