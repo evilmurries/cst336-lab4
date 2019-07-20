@@ -1,6 +1,7 @@
 body, header, footer {
     background-color: #85E8FF !important;
     text-align: center;
+    justify-content: center;
     font-family: "lato", "sans-serif";
 }
 
