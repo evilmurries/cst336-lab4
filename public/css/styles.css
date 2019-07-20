@@ -24,6 +24,7 @@ nav {
     border: thin black solid;
     width: 900px;
     padding-top: 10px;
+    justify-content: center;
     padding-bottom: 10px;
 }
 
