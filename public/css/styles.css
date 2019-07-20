@@ -1,8 +1,18 @@
-body, header, footer {
+header {
     background-color: #85E8FF !important;
-    text-align: center;
-    justify-content: center;
     font-family: "lato", "sans-serif";
+    border-radius: 25px;
+    padding-bottom: 2px;
+}
+
+main, footer, div, body {
+    background-color: #85E8FF !important;
+}
+
+body {
+    font-size: 1.5em;
+    justify-content: center;
+    text-align: center;
 }
 
 footer {
@@ -27,7 +37,7 @@ img, nav {
 nav {
     background-color: #FF9C85 !important;
     border: thin black solid;
-    width: 900px;
+    margin: auto 0;
     padding-top: 10px;
     justify-content: center;
     text-align: center;
@@ -42,11 +52,6 @@ nav a {
     color: black;
     margin: auto 0;
     text-decoration: none;
-}
-
-.divider {
-    padding-left: 10px;
-    padding-right: 10px;
 }
 
 nav a:hover {
